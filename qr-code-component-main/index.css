@@ -1,0 +1,33 @@
+.container{
+   margin: 100px auto;
+    padding-top: 10px;
+    width:300px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+    padding-bottom: 10px;
+}
+img{
+    height: 260px;
+    width: 270px;
+    border-radius: 15px;
+    padding:5px;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Outfit', sans-serif;
+}
+h2{
+    color: hsl(218, 44%, 22%);
+    margin: 15px;
+    font-size: 20px;
+}
+
+p{
+    color: hsl(220, 15%, 55%);
+    margin: 15px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}

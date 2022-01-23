@@ -1,0 +1,123 @@
+body{
+    
+    font-family: 'Big Shoulders Display', cursive;
+margin: 0px;
+padding: 0px;
+background-color:hsl(0, 0%, 95%) ;
+}
+
+.vehicles{
+    display:flex;
+    margin: 100px;
+    margin-left: 300px;
+    
+  
+}
+.vehicle1{
+    background-color: hsl(31, 77%, 52%);
+    height: 450px;
+    width: 300px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+
+}
+.vehicle2{
+    background-color: hsl(184, 100%, 22%);
+    height: 450px;
+    width: 300px;
+}
+.vehicle3{
+    background-color: hsl(179, 100%, 13%);
+    height: 450px;
+    width: 300px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.btn1{
+    background-color: white;
+    color: hsl(31, 77%, 52%) ;
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 60px;
+    text-decoration: none;
+   padding-top: 21px;
+   
+}
+.btn2{
+    background-color: white;
+    color: hsl(184, 100%, 22%);
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 60px;
+    text-decoration: none;
+    
+
+}
+.btn3{
+    background-color: white;
+    color: hsl(179, 100%, 13%);
+    padding: 20px;
+    border-radius: 20px;
+   margin-left: 60px;
+   text-decoration: none;
+
+}
+h2{
+    color: white;
+    padding-left: 50px;
+    padding-right: 60px;
+    font-stretch: normal;
+    font-size: 40px;
+    
+  
+}
+img{
+    padding:25px 17px 25px 25px;
+    margin-left: 25px;
+}
+   
+p{
+    color:hsl(0, 0%, 100%, 0.75);
+   font-family: 'Lexend Deca', sans-serif;
+    font-size: 12.5px;
+    
+}
+#p1{
+    
+  padding: 0 50px; 
+  font-size: 15px;
+  margin: 35px 0;
+  margin-bottom: 70px;
+
+ 
+   
+}
+#p2{
+    
+    padding:0 45px;
+    font-size: 15px;
+    margin: 35px 0;
+    margin-bottom: 70px;
+    
+     
+  }
+#p3{
+    
+    padding: 0 45px;
+    font-size: 15px;
+    margin: 35px 0;
+    margin-bottom: 70px;
+     
+  }
+.btn1,.btn2,.btn3{
+   
+    text-decoration: none;
+    padding: 10px 23px;
+    margin-top: 15px;
+    border: none;
+    font-family: 'Lexend Deca', sans-serif;
+    text-align: center;
+   
+   
+}
